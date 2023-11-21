@@ -1,2 +1,3 @@
 # LPC2023_2
-tutorial github lc
+Nome completo: Rubens Takashi Maruoka Vieira
+email: rtmv.snf23@uea.edu.br
